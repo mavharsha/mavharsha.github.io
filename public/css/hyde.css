@@ -80,7 +80,7 @@ html {
 .sidebar-about h1 {
   color: #333	;
   margin-top: 0;
-  font-family: "Abril Fatface";
+  font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
 }
 
@@ -92,6 +92,13 @@ html {
   display: block;
   line-height: 1.75;
 }
+
+span.sidebar-nav-item{
+font-size: .75rem
+}
+
+
+
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
 color: #fff;
