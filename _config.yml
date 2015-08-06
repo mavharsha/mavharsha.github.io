@@ -1,13 +1,15 @@
 # Site settings
 title: Sree Harsha Mamilla
 url: https://mavharsha.github.io
-description: " Curious, Code, Click "
-github: https://github.com/mavharsha
-flickr: https://secure.flickr.com/photos/76302043@N07/
+description: " Curious, Coder & Photographer "
 
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 version: 0.0.1
+
+github: https://github.com/mavharsha
+flickr: https://secure.flickr.com/photos/76302043@N07/
+
 
