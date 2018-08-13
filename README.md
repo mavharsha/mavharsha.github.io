@@ -1,10 +1,8 @@
-### [My Personal WebPage] (https://mavharsha.github.io)
+### [My Personal WebPage](https://mavharsha.github.io)
 Created using Jekyll
 
 ## Author
 Sree Harsha Mamilla
-
-Pasyanthi
 
 ## License and Author of Jekyll-hyde
 **Mark Otto**
