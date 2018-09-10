@@ -7,9 +7,9 @@ description: "Curious, Coder & Photographer "
 # Build settings
 markdown: kramdown
 permalink: pretty
-version: 0.0.3
+version: 0.0.4
 
-resume: /public/SreeHarsha_Resume.pdf
+resume: /public/SreeHarsha_Mamilla.pdf
 github: https://github.com/mavharsha
 linkedin: https://www.linkedin.com/in/sreehm/
 flickr: https://secure.flickr.com/photos/76302043@N07/
